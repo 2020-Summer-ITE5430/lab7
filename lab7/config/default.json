@@ -1,0 +1,3 @@
+{
+  "mongoDBConnectURI": "mongodb+srv://sanjeevd:Chapagaun@cluster0.4aelv.mongodb.net/mernstack?retryWrites=true&w=majority"
+}
